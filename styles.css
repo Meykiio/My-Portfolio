@@ -95,7 +95,7 @@ img{
 /* Header */
 
 #home{
-  background: url(./background.jpg) center/cover no-repeat;
+  background: url(./images/background.jpg) center/cover no-repeat;
   min-height: 47rem;
   display: grid;
   justify-content: center;
